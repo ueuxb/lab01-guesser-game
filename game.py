@@ -33,7 +33,7 @@ def check_guess(secret_number, player_guess):
        return "high"
    else:
        return "low"
-
+import random
 
 def play_game():
     """
